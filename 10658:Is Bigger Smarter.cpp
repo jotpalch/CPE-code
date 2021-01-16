@@ -1,3 +1,5 @@
+// 只拿到0.4，先記起來之後解
+
 #include <bits/stdc++.h>
 using namespace std;
 
